@@ -27,7 +27,8 @@ function App() {
 
   return (
     <div className='app'>
-      <h1>Lista de Tarefas</h1>
+      <div className="caixatitulo">      <h1>Lista de Tarefas</h1>
+      </div>
       <div className='todo-list'>
         {todos.map((todo) => (
          <Todo todo={todo}/>
