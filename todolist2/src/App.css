@@ -1,0 +1,39 @@
+body {
+  font-family: Arial;
+  background-color: white;
+  padding: 30px;
+  color: grey;
+  background-image: url('./img/rapture.jpg');
+  background-position: top;
+  background-size: cover;
+}
+
+.app{
+  padding: 2%;
+  border-radius: 20px;
+  border: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #efefef;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  margin-bottom: 5px;
+}
+
+p{
+  margin: 10px 0;
+}
+
+input{
+
+box-sizing: border-box;
+}
+
+button {
+  
+}
