@@ -35,7 +35,7 @@ body {
   color: white;
   text-align: center;
   margin-top: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 70px;
 }
 
 button {
@@ -56,7 +56,6 @@ button {
   display: flex;  
   flex-direction: column; 
   align-items: flex-start; 
-  margin: 10px;
   justify-content: space-between;
 }
 
@@ -174,4 +173,22 @@ box-sizing: border-box;
   opacity: .8;
   transition: background-color .3s;
   padding-left: auto;
+}
+
+#h2search {
+  color: grey;
+}  
+
+.search {  
+  margin-top:25px;
+  margin-left: 10px;
+  display: flex;  
+  width: auto;  
+  margin-right: 0; 
+  height: 19px;  
+}
+.category {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  color: black;
 }
